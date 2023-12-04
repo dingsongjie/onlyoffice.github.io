@@ -1,0 +1,28 @@
+{
+    "name": "globalwatermark",
+    "guid": "asc.{5b0423f6-859c-4514-a5c7-483e25f9bd32}",
+    "baseUrl": "",
+    "variations": [
+        {
+            "description": "global watermark",
+            "url": "index.html",
+            "icons": [
+                "icon.png",
+                "icon@2x.png"
+            ],
+            "isViewer": true,
+            "EditorsSupport": [
+                "word",
+                "cell",
+                "slide"
+            ],
+            "isSystem": true,
+            "isVisual": false,
+            "isModal": false,
+            "isInsideMode": false,
+            "initDataType": "none",
+            "initData": "",
+            "buttons": []
+        }
+    ]
+}
